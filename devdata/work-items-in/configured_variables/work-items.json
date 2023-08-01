@@ -1,0 +1,13 @@
+[
+    {
+        "payload": {
+            "search_phrase": "Ai Chat",
+            "news_section": [
+                "Business",
+                "Technology"
+            ],
+            "number_months": 1
+        },
+        "files": {}
+    }
+]
